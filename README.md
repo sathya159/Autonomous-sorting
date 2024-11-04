@@ -15,10 +15,10 @@ This project simulates a mobile robot using MATLAB's Robotics Playground and Sta
 - Robust error management and route adjustments for enhanced precision.
 
 ### Images
-![Stateflow Diagram](path/to/stateflow.png)
+![Stateflow Diagram](stateflow.png)
 *Image 1: Stateflow diagram for robot operations*
 
-![System Setup](path/to/simulink.png)
+![System Setup](simulink.png)
 *Image 2: System setup and environment configuration*
 
 
