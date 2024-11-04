@@ -14,6 +14,14 @@ This project simulates a mobile robot using MATLAB's Robotics Playground and Sta
 - Adaptive handling of different color sequences and environmental setups.
 - Robust error management and route adjustments for enhanced precision.
 
+### Images
+![Stateflow Diagram](path/to/image1.png)
+*Image 1: Stateflow diagram for robot operations*
+
+![System Setup](path/to/image2.png)
+*Image 2: System setup and environment configuration*
+
+
 ### Results
 - Completed multiple trials with varied color configurations.
 - Detailed runtime analysis and tuning to optimize the robot's performance.
